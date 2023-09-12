@@ -1,5 +1,5 @@
 {
-  "enable": "false",
-  "address": ""
+  "enable": "true",
+  "address": "http://18.162.217.151:1250/temp/20230911/web-mobile/"
 }
 
