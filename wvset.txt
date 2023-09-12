@@ -1,5 +1,5 @@
 {
-  "enable": "true",
-  "address": "https://m.3839.com/xinqi.html"
+  "enable": "false",
+  "address": ""
 }
 
